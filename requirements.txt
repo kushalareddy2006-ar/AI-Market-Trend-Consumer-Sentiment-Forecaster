@@ -1,0 +1,29 @@
+google-genai
+groq
+python-dotenv 
+nltk
+pandas
+openpyxl
+transformers
+torch
+sentencepiece
+scikit-learn
+streamlit
+plotly
+
+
+# FOR RAG
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu 
+numpy
+
+# for gemini
+google-genai
+python-dotenv 
+
+#  for schedule
+schedule
+

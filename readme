@@ -1,0 +1,20 @@
+
+step 1: cleaning.py : we cleaned our data for better data analysis 
+
+step 2: merge data : we merged data of amazon and flipkart
+
+step 3: reduce data : so we have a lot data after merge data so that we have reduced our data 
+
+step 4: category.py : we have defined all the category of our data 
+
+step 5: sentiment.py : giving sentiment to the data and also the random dates 
+
+step 6: topic modeling: we applied topic modling into our data
+
+
+
+api files 
+
+1. news_api.py
+2. reddit.py 
+3. rapid.py
